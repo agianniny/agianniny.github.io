@@ -1,5 +1,18 @@
+h1 {
+	color: #75C5B9;
+	font-size:20;
+	font-family: 'Open Sans', serif;
+	text-align: center;
+}
 body {
-	color: black;
-	background-color: #52AFAD;
-	font-family: arial, sans-serif;
+	background-color: #fff;
+}
+p {
+	text-align: center;
+	font-size:16;
+	font-family: 'Open Sans', serif;
+	color: #000;
+}
+img {
+	text-align: center;
 }
